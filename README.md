@@ -4,10 +4,15 @@
 
 ### Integrantes
 
-* Nome Completo – RM XXXXX
-* Nome Completo – RM XXXXX
-* Nome Completo – RM XXXXX
+* Eduado Mazelli - RM:553236 
 
+* Lucas Masaki - RM:553084 
+
+* Pedro Henrique Lima - RM:552746 
+
+* Carolina Cavalli - RM:552925 
+
+* Joseh Gabriel Trimboli Agra - RM: 553094 
 ---
 
 ## Descrição do Projeto
